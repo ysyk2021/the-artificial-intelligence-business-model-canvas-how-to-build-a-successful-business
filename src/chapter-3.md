@@ -1,5 +1,3 @@
-Chapter 3: Business Model Canvas
-================================
 
 In this chapter, we will explore the Business Model Canvas and its importance in developing successful AI business models. We will examine the components of the canvas and the benefits of using it, as well as provide examples of successful AI business models.
 

@@ -1,5 +1,3 @@
-Developing Key Partnerships and Resources
-==========================================================================================
 
 In this chapter, we will explore the importance of developing key partnerships and resources when building an AI business model canvas. An effective AI strategy requires collaboration between stakeholders, including customers, employees, and strategic partners.
 

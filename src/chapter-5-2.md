@@ -1,5 +1,3 @@
-B2B and B2C Applications
-=======================================================================
 
 In this chapter, we will examine case studies of successful AI business models with both B2B and B2C applications. These case studies will demonstrate how AI can help businesses meet their goals and improve their performance.
 

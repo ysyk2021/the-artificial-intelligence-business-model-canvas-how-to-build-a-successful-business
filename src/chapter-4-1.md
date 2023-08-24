@@ -1,5 +1,3 @@
-Identifying Customer Segments and Value Propositions
-=====================================================================================================
 
 In this chapter, we will delve into the process of building an AI business model canvas. Specifically, we will focus on identifying customer segments and value propositions, which are two key components of any successful business model.
 

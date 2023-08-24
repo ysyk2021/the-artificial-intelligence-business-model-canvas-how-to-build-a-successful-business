@@ -1,5 +1,3 @@
-Designing Revenue Streams and Cost Structures
-==============================================================================================
 
 Designing a strong business model canvas is essential for building a successful AI business. In this chapter, we will discuss how to design revenue streams and cost structures for your AI business model canvas.
 

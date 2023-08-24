@@ -1,5 +1,3 @@
-Overview of the AI Business Model Canvas
-=================================================================
 
 Artificial intelligence (AI) is rapidly transforming the business landscape, unlocking new opportunities and creating new challenges for organizations of all sizes and industries. The AI Business Model Canvas is a powerful tool that can help businesses navigate this rapidly evolving landscape by identifying key areas of focus and developing successful AI-based business models.
 

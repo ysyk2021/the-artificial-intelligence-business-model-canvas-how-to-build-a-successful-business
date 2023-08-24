@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field, and machine learning techniques are at the forefront of this revolution. In this chapter, we will explore the fundamentals of AI and the different types of machine learning techniques.
 

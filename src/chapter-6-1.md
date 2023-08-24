@@ -1,5 +1,3 @@
-Key Metrics and Indicators
-====================================================================================
 
 In this chapter, we will discuss key metrics and indicators that can be used to measure the success of an AI business model. These metrics can provide insight into the effectiveness of the model and help organizations make data-driven decisions to optimize their operations.
 

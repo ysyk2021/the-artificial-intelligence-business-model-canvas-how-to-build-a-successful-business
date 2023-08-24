@@ -1,5 +1,3 @@
-Chapter 5: Case Studies in AI Business Models
-=============================================
 
 In this chapter, we will explore case studies of successful AI-based businesses and the business models that have enabled their success. We will examine startups and established companies, as well as B2B and B2C applications.
 

@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI Business Models
-=================================================================
 
 In this chapter, we will explore the ethical and legal issues related to AI business models. We will examine the importance of considering ethical considerations and the legal framework that governs the development and use of AI technologies.
 

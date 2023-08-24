@@ -1,5 +1,3 @@
-Chapter 4: Building an AI Business Model Canvas
-===============================================
 
 In this chapter, we will explore the process of building an AI Business Model Canvas, a visual tool that can help businesses to design and iterate their business models. We will examine three key areas of the canvas: customer segments and value propositions, revenue streams and cost structures, and key partnerships and resources.
 

@@ -1,5 +1,3 @@
-Components and Benefits
-=========================================================
 
 The Business Model Canvas is a framework used by businesses to analyze and develop their business model. When applied to building a successful business using intelligent technologies, the Business Model Canvas provides a comprehensive overview of the necessary components and benefits.
 

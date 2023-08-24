@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has been an area of research and development since the 1950s, with a rich history of breakthroughs, setbacks, and paradigm shifts. In this chapter, we will explore the history of AI and its development into the powerful field it is today.
 
