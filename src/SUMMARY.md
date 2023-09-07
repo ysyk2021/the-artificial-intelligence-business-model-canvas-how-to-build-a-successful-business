@@ -26,3 +26,4 @@
 - [Chapter 8: Future of AI and Business](chapter-8.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
