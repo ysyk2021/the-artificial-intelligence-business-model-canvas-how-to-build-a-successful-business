@@ -1,5 +1,4 @@
-Chapter: Designing Revenue Streams and Cost Structures
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial aspects of designing revenue streams and cost structures when building a successful business using intelligent technologies. Developing sustainable and scalable revenue models, as well as optimizing cost structures, are essential for long-term viability and profitability.
 

@@ -1,5 +1,4 @@
-Chapter: Components and Benefits
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the components and benefits of the Artificial Intelligence (AI) Business Model Canvas. This canvas provides a structured framework to build successful businesses using intelligent technologies and AI. By understanding its components and leveraging its benefits, entrepreneurs can develop robust business models that harness the power of AI.
 

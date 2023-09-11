@@ -1,5 +1,4 @@
-Chapter: Key Metrics and Indicators
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of identifying and tracking key metrics and indicators when building a successful business using intelligent technologies. Monitoring these metrics provides valuable insights into the effectiveness of AI implementation, helps measure progress towards business goals, and facilitates data-driven decision making.
 

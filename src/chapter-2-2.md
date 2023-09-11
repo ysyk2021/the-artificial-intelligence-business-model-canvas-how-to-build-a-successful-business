@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) encompasses various approaches and techniques that enable machines to perform tasks with human-like intelligence. In this chapter, we explore different types of AI and their applications across industries.
 

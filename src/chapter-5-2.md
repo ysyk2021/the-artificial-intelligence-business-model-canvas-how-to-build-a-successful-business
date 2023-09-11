@@ -1,5 +1,4 @@
-Chapter: B2B and B2C Applications
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has the potential to revolutionize both Business-to-Business (B2B) and Business-to-Consumer (B2C) applications. In this chapter, we explore how intelligent technologies can be leveraged in these two domains to build successful AI-driven businesses.
 

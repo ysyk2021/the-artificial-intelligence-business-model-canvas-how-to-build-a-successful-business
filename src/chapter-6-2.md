@@ -1,5 +1,4 @@
-Chapter: Adjusting Strategies as Needed
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of adjusting business strategies when leveraging artificial intelligence (AI) technologies. As AI continues to evolve, businesses must adapt their approaches to ensure long-term success and maximize the potential benefits of intelligent technologies.
 

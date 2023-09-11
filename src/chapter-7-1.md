@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving field of Artificial Intelligence (AI), it is imperative to consider the ethical implications associated with the development, deployment, and use of intelligent technologies. This chapter explores key ethical considerations that businesses must address when building a successful AI-based business.
 

@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) technologies continue to advance, it is essential for businesses to understand the legal framework surrounding their use. From data privacy and security to intellectual property and liability, there are various legal considerations that businesses must address when implementing AI solutions. In this chapter, we explore key legal issues that businesses should be aware of in AI-driven enterprises.
 
